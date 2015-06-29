@@ -10,7 +10,7 @@
 		An example for getting your GitHub project to Maven Central. Demonstrates required POM information and release plugin configuration. 
 		Many thanks to: http://datumedge.blogspot.co.uk/2012/05/publishing-from-github-to-maven-central.html
 	</description>
-	<url>https://github.com/davidcarboni/releaser</url>
+	<url>https://github.com/trifonnt/maven-releaser</url>
 
 	<!-- Required: license information: -->
 	<licenses>
@@ -24,9 +24,9 @@
 
 	<!-- Required: source control information: -->
 	<scm>
-		<url>https://github.com/davidcarboni/releaser</url>
-		<connection>scm:git:git://github.com/davidcarboni/releaser.git</connection>
-		<developerConnection>scm:git:git@github.com:davidcarboni/releaser.git</developerConnection>
+		<url>https://github.com/trifonnt/maven-releaser</url>
+		<connection>scm:git:git://github.com/trifonnt/maven-releaser.git</connection>
+		<developerConnection>scm:git:git@github.com:trifonnt/maven-releaser.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
@@ -222,12 +222,12 @@
 	<!-- Required: developer information: -->
 	<developers>
 		<developer>
-			<id>david</id>
-			<name>David Carboni</name>
-			<email>david@carboni.io</email>
-			<organization>Carboni</organization>
-			<organizationUrl>https://github.com/carboni</organizationUrl>
-			<url>https://github.com/davidcarboni</url>
+			<id>trifon</id>
+			<name>Trifon Trifonov</name>
+			<email>trifont@trifon.name</email>
+			<organization>Trifon Trifonov</organization>
+			<organizationUrl>https://github.com/trifonnt</organizationUrl>
+			<url>https://github.com/trifonnt</url>
 		</developer>
 	</developers>
 
